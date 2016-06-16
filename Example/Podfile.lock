@@ -1,0 +1,28 @@
+PODS:
+  - Nimble (3.2.0)
+  - Quick (0.9.2)
+  - Regex (0.3.0)
+  - RegexNamedCaptureGroups (0.1.0):
+    - Regex
+    - UnicodeICUHeaderModule
+  - UnicodeICUHeaderModule (0.1.0)
+
+DEPENDENCIES:
+  - Nimble (~> 3.0)
+  - Quick (~> 0.8)
+  - RegexNamedCaptureGroups (from `../`)
+
+EXTERNAL SOURCES:
+  RegexNamedCaptureGroups:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Nimble: 703854335d181df169bbca9c97117b5cf8c47c1d
+  Quick: 18d057bc66451eedd5d1c8dc99ba2a5db6e60226
+  Regex: 6bfb554ad7d5b1be9cfc57ab1fe2fb6cee45a344
+  RegexNamedCaptureGroups: 84332d4d85d7798a58d085732c91fc551a1b6386
+  UnicodeICUHeaderModule: 917bc29d4635afac935f1488ee8be7b2fb852869
+
+PODFILE CHECKSUM: da5816530adda11858c64ae56f7bbc6e72889a07
+
+COCOAPODS: 1.0.0
